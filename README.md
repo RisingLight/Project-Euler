@@ -1,5 +1,9 @@
 # [Project-Euler](https://projecteuler.net/archives)
 
+## What is Project Euler?
+
+Project Euler is a series of challenging problems that require mathematical and programming skills. Somebody who enjoys learning new area of mathematics, project Euler is going to be a fun journey.
+
 1	Multiples of 3 and 5	
 
 2	Even Fibonacci numbers	
