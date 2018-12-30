@@ -4,10 +4,17 @@
 
 Project Euler is a series of challenging problems that require mathematical and programming skills. Somebody who enjoys learning new area of mathematics, project Euler is going to be a fun journey.
 
+<<<<<<< HEAD
 ## Just make sure the file name is similar to the problem and a small description should be given about the problem;
 ## Well comment your code;
 ## Use modular coding style with well indentation;
 **Happy coding ;)**
+=======
+# Just make sure the file name is similar to the problem and a small description should be given about the problem;
+# Well comment your code;
+# Use modular coding style with well indentation;
+# Happy coding ;)
+>>>>>>> 95cf09185dbf94637829898569c785b92e8db524
 
 1	Multiples of 3 and 5
 
