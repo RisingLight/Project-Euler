@@ -4,102 +4,107 @@
 
 Project Euler is a series of challenging problems that require mathematical and programming skills. Somebody who enjoys learning new area of mathematics, project Euler is going to be a fun journey.
 
-1	Multiples of 3 and 5	
+## Just make sure the file name is similar to the problem and a small description should be given about the problem;
+## Well comment your code;
+## Use modular coding style with well indentation;
+**Happy coding ;)**
 
-2	Even Fibonacci numbers	
+1	Multiples of 3 and 5
 
-3	Largest prime factor	
+2	Even Fibonacci numbers
 
-4	Largest palindrome product	
+3	Largest prime factor
 
-5	Smallest multiple	
+4	Largest palindrome product
 
-6	Sum square difference	
+5	Smallest multiple
 
-7	10001st prime	
+6	Sum square difference
 
-8	Largest product in a series	
+7	10001st prime
 
-9	Special Pythagorean triplet	
+8	Largest product in a series
 
-10	Summation of primes	
+9	Special Pythagorean triplet
 
-11	Largest product in a grid	
+10	Summation of primes
 
-12	Highly divisible triangular number	
+11	Largest product in a grid
 
-13	Large sum	
+12	Highly divisible triangular number
 
-14	Longest Collatz sequence	
+13	Large sum
 
-15	Lattice paths	
+14	Longest Collatz sequence
 
-16	Power digit sum	
+15	Lattice paths
 
-17	Number letter counts	
+16	Power digit sum
 
-18	Maximum path sum I	
+17	Number letter counts
 
-19	Counting Sundays	
+18	Maximum path sum I
 
-20	Factorial digit sum	
+19	Counting Sundays
 
-21	Amicable numbers	
+20	Factorial digit sum
 
-22	Names scores	
+21	Amicable numbers
 
-23	Non-abundant sums	
+22	Names scores
 
-24	Lexicographic permutations	
+23	Non-abundant sums
 
-25	1000-digit Fibonacci number	
+24	Lexicographic permutations
 
-26	Reciprocal cycles	
+25	1000-digit Fibonacci number
 
-27	Quadratic primes	
+26	Reciprocal cycles
 
-28	Number spiral diagonals	
+27	Quadratic primes
 
-29	Distinct powers	
+28	Number spiral diagonals
 
-30	Digit fifth powers	
+29	Distinct powers
 
-31	Coin sums	
+30	Digit fifth powers
 
-32	Pandigital products	
+31	Coin sums
 
-33	Digit cancelling fractions	
+32	Pandigital products
 
-34	Digit factorials	
+33	Digit cancelling fractions
 
-35	Circular primes	
+34	Digit factorials
 
-36	Double-base palindromes	
+35	Circular primes
 
-37	Truncatable primes	
+36	Double-base palindromes
 
-38	Pandigital multiples	
+37	Truncatable primes
 
-39	Integer right triangles	
+38	Pandigital multiples
 
-40	Champernowne's constant	
+39	Integer right triangles
 
-41	Pandigital prime	
+40	Champernowne's constant
 
-42	Coded triangle numbers	
+41	Pandigital prime
 
-43	Sub-string divisibility	
+42	Coded triangle numbers
 
-44	Pentagon numbers	
+43	Sub-string divisibility
 
-45	Triangular, pentagonal, and hexagonal	
+44	Pentagon numbers
 
-46	Goldbach's other conjecture	
+45	Triangular, pentagonal, and hexagonal
 
-47	Distinct primes factors	
+46	Goldbach's other conjecture
 
-48	Self powers	
+47	Distinct primes factors
 
-49	Prime permutations	
+48	Self powers
 
-50	Consecutive prime sum	
+49	Prime permutations
+
+50	Consecutive prime sum
