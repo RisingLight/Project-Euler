@@ -15,7 +15,7 @@ bool visited[MAXS];
  * function returns -1 if the kth prime number
  * is not between 1 and MAXS.
  * */
-int sieveOfEratosthenes1001st(int k) {
+int sieveOfEratosthenes10001st(int k) {
    int result = -1;
    int countOfPrimes = 0;
 
