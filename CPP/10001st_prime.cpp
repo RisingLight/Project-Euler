@@ -48,7 +48,7 @@ int sieveOfEratosthenes10001st(int k) {
 
 int main() {
 
-   cout << sieveOfEratosthenes1001st(10001) << endl;
+   cout << sieveOfEratosthenes10001st(10001) << endl;
 
    return 0;
 }
