@@ -26,7 +26,7 @@ Project Euler is a series of challenging problems that require mathematical and 
 |13|	[Large sum](https://projecteuler.net/problem=13)|     |      |    |        |        |      |
 |14|	[Longest Collatz sequence](https://projecteuler.net/problem=14)|     |      |    |        |        |      |
 |15	|[Lattice paths](https://projecteuler.net/problem=15)|     |      |    |        |        |      |
-|16	|[Power digit sum](https://projecteuler.net/problem=16)|     |      |    |        |        |      |
+|16	|[Power digit sum](https://projecteuler.net/problem=16)|     |      |    |  :white_check_mark:      |        |      |
 |17|	[Number letter counts](https://projecteuler.net/problem=17)|     |      |    |        |        |      |
 |18	|[Maximum path sum I](https://projecteuler.net/problem=18)|     |      |    |        |        |      |
 |19	|[Counting Sundays](https://projecteuler.net/problem=19)|     |      |    |        |        |      |
@@ -35,7 +35,7 @@ Project Euler is a series of challenging problems that require mathematical and 
 |22	|[Names scores](https://projecteuler.net/problem=22)|     |      |    |        |        |      |
 |23|	[Non-abundant sums](https://projecteuler.net/problem=23)|     |      |    |        |        |      |
 |24|	[Lexicographic permutations](https://projecteuler.net/problem=24)|     |      |    |        |        |      |
-|25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|     |      |    |        |        |      |
+|25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|:white_check_mark:     |      |    | :white_check_mark:       |        |      |
 |26|	[Reciprocal cycles](https://projecteuler.net/problem=26)|     |      |    |        |        |      |
 |27|	[Quadratic primes](https://projecteuler.net/problem=27)|     |      |    |        |        |      |
 |28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|     |      |    |        |        |      |
