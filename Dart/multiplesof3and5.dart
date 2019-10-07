@@ -10,4 +10,3 @@ void main(){
 print("Sum of all numbers that are mulitples of 3 or 5 less than 1000:");
 print(sum);
 }
-
