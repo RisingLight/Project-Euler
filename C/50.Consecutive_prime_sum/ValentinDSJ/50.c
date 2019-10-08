@@ -11,28 +11,39 @@ bool is_prime(int x)
 
     if (x <= 3)
         return true;
-    if (x % 2 == 0 || x % 3 == 0)
+    else if ((x % 2 == 0) || (x % 3 == 0))
         return false;
     while ((y * y) <= x) {
-        if (x % y == 0 || x % (y + 2) == 0)
+        if ((x % y == 0) || (x % (y + 2) == 0))
             return false;
         y += 6;
     }
     return true;
 }
 
-int main(void)
+int prime_sum(int start)
 {
     int total = 0;
-    
-    for (int x = 2; ; x++) {
-        if (is_prime(x) && (total + x) > LIMIT)
+    int temp;
+    int count = 0;
+
+    for (int x = start; ; x++) {
+        temp = is_prime(x);
+        if (temp && (total + x) > LIMIT)
             break;
-        else if (is_prime(x)) {
-            printf("%d\n", total);
+        else if (temp)
             total += x;
-        }
     }
-    printf("%d\n", total);
+    return total;
+}
+
+int main(void)
+{
+    int total;
+
+    for (int x = 2; !is_prime(total); x++) {
+        total = prime_sum(x);
+        printf("%d\n", total);
+    }
     return 0;
 }
