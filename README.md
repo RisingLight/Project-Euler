@@ -35,12 +35,12 @@ Project Euler is a series of challenging problems that require mathematical and 
 |22	|[Names scores](https://projecteuler.net/problem=22)|     |      |    |        |        |      |
 |23|	[Non-abundant sums](https://projecteuler.net/problem=23)|     |      |    |        |        |      |
 |24|	[Lexicographic permutations](https://projecteuler.net/problem=24)|     |      |    |        |        |      |
-|25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|     |      |    |  :white_check_mark:   |        |      |
+|25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|     |      |    |:white_check_mark: |        |      |
 |26|	[Reciprocal cycles](https://projecteuler.net/problem=26)|     |      |    |        |        |      |
 |27|	[Quadratic primes](https://projecteuler.net/problem=27)|     |      |    |        |        |      |
 |28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|     |      |    |        |        |      |
 |29	|[Distinct powers](https://projecteuler.net/problem=29)|     |      |    |        |        |      |
-|30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    |   :white_check_mark:    |        |      |
+|30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    |  :white_check_mark:    |        |      |
 |31|	[Coin sums	](https://projecteuler.net/problem=31)|     |      |    |        |        |      |
 |32|	[Pandigital products](https://projecteuler.net/problem=32)|     |      |    |        |        |      |
 |33	|[Digit cancelling fractions](https://projecteuler.net/problem=33)|     |      |    |        |        |      |
