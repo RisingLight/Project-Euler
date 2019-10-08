@@ -56,8 +56,8 @@ int main(void)
     int res = 0;
     int temp = 0;
     
-    for (int x = 1000; x > 500; x--) {
-        for (int y = 1000; y > 500; y--) {
+    for (int x = 999; x > 0; x--) {
+        for (int y = 999; y > 0; y--) {
             temp = x * y;
             if (is_palindrome(temp) && (temp > res))
                 res = temp;
