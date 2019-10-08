@@ -3,11 +3,11 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-#define limit 1000000
+#define LIMIT 1000000
 
-bool is_prime(uint16_t x)
+bool is_prime(int x)
 {
-    uint16_t y = 5;
+    int y = 5;
 
     if (x <= 3)
         return true;
@@ -21,15 +21,18 @@ bool is_prime(uint16_t x)
     return true;
 }
 
-uint16_t prime_sum(uint16_t n, uint16_t total)
-{
-   
-}
-
 int main(void)
 {
-    uint16_t res;
-    res = prime_sum(3, 2);
-    printf("%s\n", res);
+    int total = 0;
+    
+    for (int x = 2; ; x++) {
+        if (is_prime(x) && (total + x) > LIMIT)
+            break;
+        else if (is_prime(x)) {
+            printf("%d\n", total);
+            total += x;
+        }
+    }
+    printf("%d\n", total);
     return 0;
 }
