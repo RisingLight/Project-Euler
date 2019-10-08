@@ -4,6 +4,23 @@
 
 Project Euler is a series of challenging problems that require mathematical and programming skills. Somebody who enjoys learning new area of mathematics, project Euler is going to be a fun journey.
 
+## How to contribute?
+- Fork this repository.
+- Make a directory with the format `problem_number.problem_statement` in the directory of the language you're solving.
+```
+For example if you are solving Problem no 1 in java- > 
+Your solution should be at -> Java/01.Multiples_of_3_and_5/solution.java
+```
+- Add :white_check_mark: `:white_check_mark:` to the table against the problem you've solved.
+- Send a PR 
+
+
+
+Happy Contributing! 😃 
+
+
+⭐ to show support!
+
 ## Contributors  
 [![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/0)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/0)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/1)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/1)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/2)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/2)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/3)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/3)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/4)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/4)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/5)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/5)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/6)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/6)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/7)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/7)
 
