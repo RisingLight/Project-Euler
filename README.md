@@ -13,11 +13,11 @@ Project Euler is a series of challenging problems that require mathematical and 
 |----|-------------------|-----|------|----|--------|--------|------|
 |01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |      |
 |02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |      |
-|03|	[Largest prime factor](https://projecteuler.net/problem=3)|  :white_check_mark:   |   :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:      |        |      |
+|03|	[Largest prime factor](https://projecteuler.net/problem=3)|  :white_check_mark:   |   :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:      |        |  :white_check_mark:    |
 |04	|[Largest palindrome product](https://projecteuler.net/problem=4)|     |      |    |        |        |      |
 |05	|[Smallest multiple](https://projecteuler.net/problem=5)|     |      |    |        |        |      |
 |06|	[Sum square difference](https://projecteuler.net/problem=6)|     |      |    |    :white_check_mark:    |        |      |
-|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |        |        |      |
+|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |        |        |   :white_check_mark:   |
 |08|	[Largest product in a series](https://projecteuler.net/problem=8)|     |      |    |    :white_check_mark:    |        |      |
 |09|	[Special Pythagorean triplet](https://projecteuler.net/problem=9)|     |      |    |        |        |      |
 |10	|[Summation of primes](https://projecteuler.net/problem=10)|     |      |    |        |        |      |
