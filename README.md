@@ -78,3 +78,4 @@ Happy Contributing! 😃
 |48|	[Self powers](https://projecteuler.net/problem=48)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |49|	[Prime permutations](https://projecteuler.net/problem=49)|     |      |    |        |        |      |   |    |         |   |      |       |
 |50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |        |        |      |   |    |         |   |      |       |
+
