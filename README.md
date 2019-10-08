@@ -30,7 +30,7 @@ Project Euler is a series of challenging problems that require mathematical and 
 |17|	[Number letter counts](https://projecteuler.net/problem=17)|     |      |    |        |        |      |
 |18	|[Maximum path sum I](https://projecteuler.net/problem=18)|     |      |    |        |        |      |
 |19	|[Counting Sundays](https://projecteuler.net/problem=19)|     |      |    |        |        |      |
-|20	|[Factorial digit sum](https://projecteuler.net/problem=20)|     |      |    |        |        |      |
+|20	|[Factorial digit sum](https://projecteuler.net/problem=20)|     |      |    |  :white_check_mark:      |        |      |
 |21|	[Amicable numbers](https://projecteuler.net/problem=21)|     |      |    |        |        |      |
 |22	|[Names scores](https://projecteuler.net/problem=22)|     |      |    |        |        |      |
 |23|	[Non-abundant sums](https://projecteuler.net/problem=23)|     |      |    |        |        |      |
