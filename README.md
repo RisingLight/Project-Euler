@@ -52,7 +52,9 @@ Happy Contributing! 😃
 |22	|[Names scores](https://projecteuler.net/problem=22)|     |      |    |        |        |      |   |    |         |   |      |       |
 |23|	[Non-abundant sums](https://projecteuler.net/problem=23)|     |      |    |        |        |      |   |    |         |   |      |       |
 |24|	[Lexicographic permutations](https://projecteuler.net/problem=24)|     |      |    |        |        |      |   |    |         |   |      |       |
+
 |25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)| :white_check_mark:    |      |    |  :white_check_mark:      |        |      |   |    |         |   |      |       |
+
 |26|	[Reciprocal cycles](https://projecteuler.net/problem=26)|     |      |    |        |        |      |   |    |         |   |      |       |
 |27|	[Quadratic primes](https://projecteuler.net/problem=27)|     |      |    |        |        |      |   |    |         |   |      |       |
 |28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -78,3 +80,4 @@ Happy Contributing! 😃
 |48|	[Self powers](https://projecteuler.net/problem=48)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |49|	[Prime permutations](https://projecteuler.net/problem=49)|     |      |    |        |        |      |   |    |         |   |      |       |
 |50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |        |        |      |   |    |         |   |      |       |
+
