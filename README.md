@@ -8,15 +8,15 @@ Project Euler is a series of challenging problems that require mathematical and 
 - Fork this repository.
 - Make a directory with the format `problem_number.problem_statement` in the directory of the language you're solving.
 ```
-For example if you are solving Problem no 1 in java- > 
+For example if you are solving Problem no 1 in java- >
 Your solution should be at -> Java/01.Multiples_of_3_and_5/your_user_name.java
 ```
 - Add :white_check_mark: `:white_check_mark:` to the table against the problem you've solved.
-- Send a PR 
+- Send a PR
 
 
 
-Happy Contributing! 😃 
+Happy Contributing! 😃
 
 
 ⭐ to show support!
@@ -34,7 +34,7 @@ Happy Contributing! 😃
 |04	|[Largest palindrome product](https://projecteuler.net/problem=4)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |05	|[Smallest multiple](https://projecteuler.net/problem=5)|     |      |    |   :white_check_mark:    |        |      |   |    |         |   |      |       |
 |06|	[Sum square difference](https://projecteuler.net/problem=6)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
-|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |        |        |      |   |    |         |   |      |       |
+|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |08|	[Largest product in a series](https://projecteuler.net/problem=8)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |09|	[Special Pythagorean triplet](https://projecteuler.net/problem=9)|     |      |    |        |        |      |   |    |         |   |      |       |
 |10	|[Summation of primes](https://projecteuler.net/problem=10)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -78,4 +78,3 @@ Happy Contributing! 😃
 |48|	[Self powers](https://projecteuler.net/problem=48)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |49|	[Prime permutations](https://projecteuler.net/problem=49)|     |      |    |        |        |      |   |    |         |   |      |       |
 |50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |        |        |      |   |    |         |   |      |       |
-
