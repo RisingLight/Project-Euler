@@ -40,7 +40,7 @@ Project Euler is a series of challenging problems that require mathematical and 
 |27|	[Quadratic primes](https://projecteuler.net/problem=27)|     |      |    |        |        |      |
 |28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|     |      |    |        |        |      |
 |29	|[Distinct powers](https://projecteuler.net/problem=29)|     |      |    |        |        |      |
-|30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    |        |        |      |
+|30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    |   :white_check_mark:    |        |      |
 |31|	[Coin sums	](https://projecteuler.net/problem=31)|     |      |    |        |        |      |
 |32|	[Pandigital products](https://projecteuler.net/problem=32)|     |      |    |        |        |      |
 |33	|[Digit cancelling fractions](https://projecteuler.net/problem=33)|     |      |    |        |        |      |
