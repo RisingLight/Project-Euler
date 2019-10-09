@@ -26,17 +26,19 @@ Happy Contributing! 😃
 
 ## Problems
 
+
 | No | Problem Statement | CPP | Java | JS | Python | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
 |---|----|---------|---|------|-------|----|-------------------|-----|------|----|--------|--------|------|
-|01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   | :white_check_mark:  |    |         |   |      |       |
-|02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   |   |    |         |   |      |       |
+
+|01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |         |   |      |       |
+|02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   |   |    |         |   |      |       |
 |03|	[Largest prime factor](https://projecteuler.net/problem=3)|  :white_check_mark:   |   :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:      |        |      |   |    |         |   |      |       |
-|04	|[Largest palindrome product](https://projecteuler.net/problem=4)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
+|04	|[Largest palindrome product](https://projecteuler.net/problem=4)|     |      |    |    :white_check_mark:    |   :white_check_mark:     |      | :white_check_mark:  |    |         |   |      |       |
 |05	|[Smallest multiple](https://projecteuler.net/problem=5)|     |      |    |   :white_check_mark:    |        |      |   |    |         |   |      |       |
 |06|	[Sum square difference](https://projecteuler.net/problem=6)|     |      |    |    :white_check_mark:    |        |    :white_check_mark:   |   |    |         |   |      |   |
 |07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |        |        |      |   |    |         |   |      |       |
 |08|	[Largest product in a series](https://projecteuler.net/problem=8)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
-|09|	[Special Pythagorean triplet](https://projecteuler.net/problem=9)|     |      |    |        |        |      |   |    |         |   |      |       |
+|09|	[Special Pythagorean triplet](https://projecteuler.net/problem=9)|  :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |10	|[Summation of primes](https://projecteuler.net/problem=10)|     |      |    |        |        |      |   |    |         |   |      |       |
 |11	|[Largest product in a grid](https://projecteuler.net/problem=11)|     |      |    |        |        |      |   |    |         |   |      |       |
 |12|	[Highly divisible triangular number](https://projecteuler.net/problem=12)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -68,7 +70,7 @@ Happy Contributing! 😃
 |38	|[Pandigital multiples](https://projecteuler.net/problem=38)|     |      |    |        |        |      |   |    |         |   |      |       |
 |39|	[Integer right triangles](https://projecteuler.net/problem=39)|     |  :white_check_mark:    |    |        |        |      |   |    |         |   |      |       |
 |40|	[Champernowne's constant](https://projecteuler.net/problem=40)|     |      |    |        |        |      |   |    |         |   |      |       |
-|41|	[Pandigital prime](https://projecteuler.net/problem=41)|     |      |    |        |        |      |   |    |         |   |      |       |
+|41|	[Pandigital prime](https://projecteuler.net/problem=41)|     |      |    | :white_check_mark:       |        |      |   |    |         |   |      |       |
 |42	|[Coded triangle numbers](https://projecteuler.net/problem=42)|     |      |    |   :white_check_mark:     |        |      |   |    |         |   |      |       |
 |43	|[Sub-string divisibility](https://projecteuler.net/problem=43)|     |      |    |        |        |      |   |    |         |   |      |       |
 |44	|[Pentagon numbers](https://projecteuler.net/problem=44)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -78,4 +80,5 @@ Happy Contributing! 😃
 |48|	[Self powers](https://projecteuler.net/problem=48)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |49|	[Prime permutations](https://projecteuler.net/problem=49)|     |      |    |        |        |      |   |    |         |   |      |       |
 |50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |        |        |      |   |    |         |   |      |       |
+
 
