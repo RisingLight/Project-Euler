@@ -1,3 +1,5 @@
+# Euler Problem 25
+
 def _fibo():
 	a, b, i = 1, 1, 1
 	while True:
