@@ -8,17 +8,17 @@ Project Euler is a series of challenging problems that require mathematical and 
 - Fork this repository.
 - Make a directory with the format `problem_number.problem_statement` in the directory of the language you're solving.
 ```
-For example if you are solving Problem no 1 in java- > 
+For example if you are solving Problem no 1 in java- >
 Your solution should be at -> Java/01.Multiples_of_3_and_5/your_user_name.java
 ```
 - Add :white_check_mark: `:white_check_mark:` to the table against the problem you've solved.
-- Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment `Euler Problem_num`. 
+- Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment `Euler Problem_num`.
 - While Editing The ReadMe For PR, Use "**No Wrap**" Option { At Top Right Of 'Edit File' Tool On Githtub}
-- Send a PR 
+- Send a PR
 - [Thanks](#Thanks)
 
 
-Happy Contributing! 😃 
+Happy Contributing! 😃
 
 
 ⭐ to show support!
@@ -45,7 +45,7 @@ Happy Contributing! 😃
 | 14 | [Longest Collatz sequence](https://projecteuler.net/problem=14)              |                    |                    |                    |                    |                    |                    |                    |    |                    |   |      |       |
 | 15 | [Lattice paths](https://projecteuler.net/problem=15)                         |                    |                    |                    |                    |                    |                    |                    |    |                    |   |      |       |
 | 16 | [Power digit sum](https://projecteuler.net/problem=16)                       |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |   |      |       |
-| 17 | [Number letter counts](https://projecteuler.net/problem=17)                  |                    |                    |                    |                    |                    |                    |                    |    |                    |   |      |       |
+| 17 | [Number letter counts](https://projecteuler.net/problem=17)                  |                    |                    |                    |                    |                    |                    |:white_check_mark:  |    |                    |   |      |       |
 | 18 | [Maximum path sum I](https://projecteuler.net/problem=18)                    |                    |                    |                    |                    |                    |                    |                    |    |                    |   |      |       |
 | 19 | [Counting Sundays](https://projecteuler.net/problem=19)                      |                    |                    |                    |                    |                    |                    |                    |    |                    |   |      |       |
 | 20 | [Factorial digit sum](https://projecteuler.net/problem=20)                   |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |   |      |       |
@@ -88,5 +88,3 @@ Happy Contributing! 😃
 - We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's title to that file.
 - We would appriciate, if all of you could do the necessary modification, hence it won't affect your contribution as per HacktoberFest.
 - Keep Up the Efforts.
-
-
