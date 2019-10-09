@@ -13,7 +13,6 @@ bool isPalindromeHelper(int x){
     string numString = to_string(x);
     return isPalindrome(numString);
 }
-
 int main()
 {
     int highestPalindrome = 0;
