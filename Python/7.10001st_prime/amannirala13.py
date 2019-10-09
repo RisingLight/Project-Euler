@@ -20,4 +20,4 @@ while count != 10001:
     if is_prime(num):
         count +=1
 print(num)
-print("Time taken: ", datetime.now()-start_time) # Time taken to complete (~5min)
+print("Time taken: ", datetime.now()-start_time) #Time taken to complete (~5min)
