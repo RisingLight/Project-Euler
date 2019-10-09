@@ -69,7 +69,7 @@ Happy Contributing! 😃
 |38	|[Pandigital multiples](https://projecteuler.net/problem=38)|     |      |    |        |        |      |   |    |         |   |      |       |
 |39|	[Integer right triangles](https://projecteuler.net/problem=39)|     |  :white_check_mark:    |    |        |        |      |   |    |         |   |      |       |
 |40|	[Champernowne's constant](https://projecteuler.net/problem=40)|     |      |    |        |        |      |   |    |         |   |      |       |
-|41|	[Pandigital prime](https://projecteuler.net/problem=41)|     |      |    |        |        |      |   |    |         |   |      |       |
+|41|	[Pandigital prime](https://projecteuler.net/problem=41)|     |      |    | :white_check_mark:       |        |      |   |    |         |   |      |       |
 |42	|[Coded triangle numbers](https://projecteuler.net/problem=42)|     |      |    |   :white_check_mark:     |        |      |   |    |         |   |      |       |
 |43	|[Sub-string divisibility](https://projecteuler.net/problem=43)|     |      |    |        |        |      |   |    |         |   |      |       |
 |44	|[Pentagon numbers](https://projecteuler.net/problem=44)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -79,4 +79,5 @@ Happy Contributing! 😃
 |48|	[Self powers](https://projecteuler.net/problem=48)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |49|	[Prime permutations](https://projecteuler.net/problem=49)|     |      |    |        |        |      |   |    |         |   |      |       |
 |50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |        |        |      |   |    |         |   |      |       |
+
 
