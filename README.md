@@ -56,7 +56,7 @@ Happy Contributing! 😃
 |25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|     |      |    |        |        |      |   |    |         |   |      |       |
 |26|	[Reciprocal cycles](https://projecteuler.net/problem=26)|     |      |    |        |        |      |   |    |         |   |      |       |
 |27|	[Quadratic primes](https://projecteuler.net/problem=27)|     |      |    |        |        |      |   |    |         |   |      |       |
-|28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|   :white_check_mark:    |      |    |        |        |      |   |    |         |   |      |       |
+|28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|   :white_check_mark:    |      |    |   :white_check_mark:    |        |      |   :white_check_mark:    |    |         |   |      |       |
 |29	|[Distinct powers](https://projecteuler.net/problem=29)|     |      |    |        |        |      |   |    |         |   |      |       |
 |30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    |        |        |      |   |    |         |   |      |       |
 |31|	[Coin sums	](https://projecteuler.net/problem=31)|     |      |    |        |        |      |   |    |         |   |      |       |
