@@ -12,7 +12,7 @@ For example if you are solving Problem no 1 in java- >
 Your solution should be at -> Java/01.Multiples_of_3_and_5/your_user_name.java
 ```
 - Add :white_check_mark: `:white_check_mark:` to the table against the problem you've solved.
-- Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment as `Euler Problem_num`. 
+- Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment `Euler Problem_num`. 
 - Send a PR 
 - [Thanks](#Thanks)
 
@@ -27,7 +27,7 @@ Happy Contributing! 😃
 
 ## Problems
 
-| No | Problem Statement | CPP | Java | JS | Python | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
+| No | Problem Statement | CPP | Java | JS | Python3 | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
 |---|----|---------|---|------|-------|----|-------------------|-----|------|----|--------|--------|------|
 |01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
 |02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   | :white_check_mark:  |    |:white_check_mark:|   |      |       |
@@ -85,6 +85,8 @@ Happy Contributing! 😃
 
 - Thanks to You all who are doing their best in solving the problems, we appriciate your efforts.
 - We thank you all for the overwelming P.R that we have recieved, To mantain the Quality and Response of the P.R we have updated the Guidelines.
-- We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributers titile to that file.
-- We would appriciate if all of you could do that as that won't affect your contribution as per HacktoberFest.
+- We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's titile to that file.
+- We would appriciate, if all of you could do the necessary modification, hence it won't affect your contribution as per HacktoberFest.
 - Keep Up the Efforts.
+
+
