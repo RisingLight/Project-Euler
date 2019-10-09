@@ -28,7 +28,7 @@ Happy Contributing! 😃
 
 | No | Problem Statement | CPP | Java | JS | Python | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
 |---|----|---------|---|------|-------|----|-------------------|-----|------|----|--------|--------|------|
-|01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
+|01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |:white_check_mark:|:white_check_mark:   |      |       |
 |02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
 |03|	[Largest prime factor](https://projecteuler.net/problem=3)|  :white_check_mark:   |   :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:      |        |      |   |    |:white_check_mark:|   |      |       |
 |04	|[Largest palindrome product](https://projecteuler.net/problem=4)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
@@ -55,9 +55,9 @@ Happy Contributing! 😃
 |25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|     |      |    |        |        |      |   |    |         |   |      |       |
 |26|	[Reciprocal cycles](https://projecteuler.net/problem=26)|     |      |    |        |        |      |   |    |         |   |      |       |
 |27|	[Quadratic primes](https://projecteuler.net/problem=27)|     |      |    |        |        |      |   |    |         |   |      |       |
-|28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|     |      |    |        |        |      |   |    |         |   |      |       |
-|29	|[Distinct powers](https://projecteuler.net/problem=29)|     |      |    |        |        |      |   |    |         |   |      |       |
-|30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    |        |        |      |   |    |         |   |      |       |
+|28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|     |      |    |:white_check_mark:        |        |      |   |    |         |   |      |       |
+|29	|[Distinct powers](https://projecteuler.net/problem=29)|     |      |    | :white_check_mark:       |        |      |   |    |         |   |      |       |
+|30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    | :white_check_mark:       |        |      |   |    |         |   |      |       |
 |31|	[Coin sums	](https://projecteuler.net/problem=31)|     |      |    |        |        |      |   |    |         |   |      |       |
 |32|	[Pandigital products](https://projecteuler.net/problem=32)|     |      |    |        |        |      |   |    |         |   |      |       |
 |33	|[Digit cancelling fractions](https://projecteuler.net/problem=33)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -77,5 +77,5 @@ Happy Contributing! 😃
 |47|	[Distinct primes factors](https://projecteuler.net/problem=47)|     |      |    |        |        |      |   |    |         |   |      |       |
 |48|	[Self powers](https://projecteuler.net/problem=48)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |49|	[Prime permutations](https://projecteuler.net/problem=49)|     |      |    |        |        |      |   |    |         |   |      |       |
-|50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |        |        |      |   |    |         |   |      |       |
+|50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |  :white_check_mark:      |        |      |   |    |         |   |      |       |
 
