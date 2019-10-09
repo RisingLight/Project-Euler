@@ -1,3 +1,6 @@
+//Euler problem 50
+//Consecutive prime sum
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
@@ -5,7 +8,7 @@
 
 #define LIMIT 1000000
 
-bool is_prime(int x)
+static bool is_prime(int x)
 {
     int y = 5;
 
@@ -21,29 +24,48 @@ bool is_prime(int x)
     return true;
 }
 
-int prime_sum(int start)
+static void prime_tab(void)
 {
-    int total = 0;
-    int temp;
-    int count = 0;
+    int *prime_tab = calloc(LIMIT / 4, sizeof(int));
+    int length = 0;
 
-    for (int x = start; ; x++) {
-        temp = is_prime(x);
-        if (temp && (total + x) > LIMIT)
-            break;
-        else if (temp)
-            total += x;
+    for (int x = 2; x < LIMIT; x++)
+        if (is_prime(x)) {
+            prime_tab[length] = x;
+            length++;
+        }
+    prime_tab[length] = -1;
+    
+    int *sum_tab = calloc(length + 1, sizeof(int));
+
+    sum_tab[0] = 0;
+    length = 0;
+    for (int x = 0; sum_tab[x] < LIMIT; x++) {
+        sum_tab[x + 1] = sum_tab[x] + prime_tab[x];
+        length++;
     }
-    return total;
+    
+    int res = 0;
+    int temp_res = 0;
+    int diff = 0;
+    int temp_diff = 0;
+    for (int x = length; x > 0; x--) {
+        for (int y = 0; y < length; y++) {
+            temp_res = sum_tab[x] - sum_tab[y];
+            temp_diff = x - y;
+            if (temp_res > LIMIT)
+                break;
+            if (is_prime(temp_res) && (temp_diff > diff)) {
+                res = temp_res;
+                diff = temp_diff;
+            }
+        }
+    }
+    printf("The biggest sum of consecutive primes is: %d\nWith: %d consecutive primes.\n", res, diff);
 }
 
 int main(void)
 {
-    int total;
-
-    for (int x = 2; !is_prime(total); x++) {
-        total = prime_sum(x);
-        printf("%d\n", total);
-    }
+    prime_tab();
     return 0;
 }
