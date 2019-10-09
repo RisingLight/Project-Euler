@@ -1,4 +1,4 @@
-#!/usr/bin/python
+# Euler 28. Number spiral diagonals
 
 n=1001
 capas=int((n-1)/2) 

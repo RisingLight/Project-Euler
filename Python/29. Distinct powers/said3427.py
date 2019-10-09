@@ -1,4 +1,5 @@
-#!/usr/bin/python
+# Euler 29. Distinct powers
+
 result=[]
 for i in range(2,101):
 	for j in range(2,101):

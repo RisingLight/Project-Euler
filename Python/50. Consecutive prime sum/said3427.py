@@ -1,3 +1,5 @@
+# Euler 50. Consecutive prime sum
+
 def primes_sieve2(limit):
     a = [True] * limit
     a[0] = a[1] = False
