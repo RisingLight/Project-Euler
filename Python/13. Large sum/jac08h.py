@@ -1,3 +1,14 @@
+"""
+Problem 13 - Large Sum
+"""
+
+def first_digits_of_sum(number:str, n_digits:int) -> str:
+    s = 0
+    for y, i in enumerate(number.split()):
+        s += int(i)
+
+    return str(s)[:n_digits]
+
 x = """
 37107287533902102798797998220837590246510135740250
 46376937677490009712648124896970078050417018260538
@@ -100,13 +111,4 @@ x = """
 20849603980134001723930671666823555245252804609722
 53503534226472524250874054075591789781264330331690
 """
-
-
-def first_digits_of_sum(number:str, n_digits:int) -> str:
-    s = 0
-    for y, i in enumerate(number.split()):
-        s += int(i)
-
-    return str(s)[:n_digits]
-
 print(first_digits_of_sum(x, 10))
