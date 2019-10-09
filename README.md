@@ -85,7 +85,7 @@ Happy Contributing! 😃
 
 - Thanks to You all who are doing their best in solving the problems, we appriciate your efforts.
 - We thank you all for the overwelming P.R that we have recieved, To mantain the Quality and Response of the P.R we have updated the Guidelines.
-- We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's titile to that file.
+- We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's title to that file.
 - We would appriciate, if all of you could do the necessary modification, hence it won't affect your contribution as per HacktoberFest.
 - Keep Up the Efforts.
 
