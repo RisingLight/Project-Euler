@@ -12,8 +12,9 @@ For example if you are solving Problem no 1 in java- >
 Your solution should be at -> Java/01.Multiples_of_3_and_5/your_user_name.java
 ```
 - Add :white_check_mark: `:white_check_mark:` to the table against the problem you've solved.
+- Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment `Euler Problem_num`. 
 - Send a PR 
-
+- [Thanks](#Thanks)
 
 
 Happy Contributing! 😃 
@@ -26,16 +27,16 @@ Happy Contributing! 😃
 
 ## Problems
 
-| No | Problem Statement | CPP | Java | JS | Python | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
+| No | Problem Statement | CPP | Java | JS | Python3 | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
 |---|----|---------|---|------|-------|----|-------------------|-----|------|----|--------|--------|------|
-|01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |         |   |      |       |
-|02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   |   |    |         |   |      |       |
-|03|	[Largest prime factor](https://projecteuler.net/problem=3)|  :white_check_mark:   |   :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:      |        |      |   |    |         |   |      |       |
-|04	|[Largest palindrome product](https://projecteuler.net/problem=4)| :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 
+|01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
+|02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
+|03|	[Largest prime factor](https://projecteuler.net/problem=3)|  :white_check_mark:   |   :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:      |        |      |   |    |:white_check_mark:|   |      |       |
+|04	|[Largest palindrome product](https://projecteuler.net/problem=4)|   :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |05	|[Smallest multiple](https://projecteuler.net/problem=5)|     |      |    |   :white_check_mark:    |        |      |   |    |         |   |      |       |
 |06|	[Sum square difference](https://projecteuler.net/problem=6)|     |      |    |    :white_check_mark:    |        |    :white_check_mark:   |   |    |         |   |      |   |
-|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |        |        |      |   |    |         |   |      |       |
+|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    | :white_check_mark:       |        |      |   |    |         |   |      |       |
 |08|	[Largest product in a series](https://projecteuler.net/problem=8)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |09|	[Special Pythagorean triplet](https://projecteuler.net/problem=9)|  :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |10	|[Summation of primes](https://projecteuler.net/problem=10)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -79,4 +80,13 @@ Happy Contributing! 😃
 |48|	[Self powers](https://projecteuler.net/problem=48)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |49|	[Prime permutations](https://projecteuler.net/problem=49)|     |      |    |        |        |      |   |    |         |   |      |       |
 |50|	[Consecutive prime sum](https://projecteuler.net/problem=50)|     |      |    |        |        |      |   |    |         |   |      |       |
+
+---
+## Thanks
+
+- Thanks to You all who are doing their best in solving the problems, we appriciate your efforts.
+- We thank you all for the overwelming P.R that we have recieved, To mantain the Quality and Response of the P.R we have updated the Guidelines.
+- We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's titile to that file.
+- We would appriciate, if all of you could do the necessary modification, hence it won't affect your contribution as per HacktoberFest.
+- Keep Up the Efforts.
 
