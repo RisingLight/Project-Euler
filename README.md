@@ -27,7 +27,7 @@ Happy Contributing! 😃
 
 ## Problems
 
-| No | Problem Statement | CPP | Java | JS | Python | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
+| No | Problem Statement | CPP | Java | JS | Python3 | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
 |---|----|---------|---|------|-------|----|-------------------|-----|------|----|--------|--------|------|
 |01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
 |02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
@@ -35,7 +35,7 @@ Happy Contributing! 😃
 |04	|[Largest palindrome product](https://projecteuler.net/problem=4)|   :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |05	|[Smallest multiple](https://projecteuler.net/problem=5)|     |      |    |   :white_check_mark:    |        |      |   |    |         |   |      |       |
 |06|	[Sum square difference](https://projecteuler.net/problem=6)|     |      |    |    :white_check_mark:    |        |    :white_check_mark:   |   |    |         |   |      |   |
-|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |        |        |      |   |    |         |   |      |       |
+|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    | :white_check_mark:       |        |      |   |    |         |   |      |       |
 |08|	[Largest product in a series](https://projecteuler.net/problem=8)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |09|	[Special Pythagorean triplet](https://projecteuler.net/problem=9)|  :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |10	|[Summation of primes](https://projecteuler.net/problem=10)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -88,3 +88,4 @@ Happy Contributing! 😃
 - We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's titile to that file.
 - We would appriciate, if all of you could do the necessary modification, hence it won't affect your contribution as per HacktoberFest.
 - Keep Up the Efforts.
+
