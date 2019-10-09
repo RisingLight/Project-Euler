@@ -27,21 +27,21 @@ Happy Contributing! 😃
 
 ## Problems
 
-| No | Problem Statement | CPP | Java | JS | Python | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
+| No | Problem Statement | CPP | Java | JS | Py3 | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
 |---|----|---------|---|------|-------|----|-------------------|-----|------|----|--------|--------|------|
 |01	|[Multiples of 3 and 5](https://projecteuler.net/problem=1)| :white_check_mark:    | :white_check_mark:     |  :white_check_mark:  |  :white_check_mark:      |   :white_check_mark:     |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
-|02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   |   |    |:white_check_mark:|   |      |       |
+|02	|[Even Fibonacci numbers](https://projecteuler.net/problem=2)| :white_check_mark:    | :white_check_mark:     |    |    :white_check_mark:    |    :white_check_mark:    |   :white_check_mark:   | :white_check_mark:  |    |:white_check_mark:|   |      |       |
 |03|	[Largest prime factor](https://projecteuler.net/problem=3)|  :white_check_mark:   |   :white_check_mark:   |  :white_check_mark:  |  :white_check_mark:      |        |      |   |    |:white_check_mark:|   |      |       |
 |04	|[Largest palindrome product](https://projecteuler.net/problem=4)|   :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
-|05	|[Smallest multiple](https://projecteuler.net/problem=5)|     |      |    |   :white_check_mark:    |        |      |   |    |         |   |      |       |
-|06|	[Sum square difference](https://projecteuler.net/problem=6)|     |      |    |    :white_check_mark:    |        |    :white_check_mark:   |   |    |         |   |      |   |
-|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    |        |        |      |   |    |         |   |      |       |
+|05	|[Smallest multiple](https://projecteuler.net/problem=5)|      :white_check_mark:      |      |    |   :white_check_mark:    |        |      |   |    |         |   |      |       |
+|06|	[Sum square difference](https://projecteuler.net/problem=6)|  :white_check_mark:  |      |    |    :white_check_mark:    |        |    :white_check_mark:   |   |    |         |   |      |   |
+|07	|[10001st prime](https://projecteuler.net/problem=7)| :white_check_mark:    |      |    | :white_check_mark:       |        |      |   |    |         |   |      |       |
 |08|	[Largest product in a series](https://projecteuler.net/problem=8)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |09|	[Special Pythagorean triplet](https://projecteuler.net/problem=9)|  :white_check_mark:    |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
 |10	|[Summation of primes](https://projecteuler.net/problem=10)|     |      |    |        |        |      |   |    |         |   |      |       |
 |11	|[Largest product in a grid](https://projecteuler.net/problem=11)|     |      |    |        |        |      |   |    |         |   |      |       |
 |12|	[Highly divisible triangular number](https://projecteuler.net/problem=12)|     |      |    |        |        |      |   |    |         |   |      |       |
-|13|	[Large sum](https://projecteuler.net/problem=13)|     |      |    |        |        |      |   |    |         |   |      |       |
+|13|	[Large sum](https://projecteuler.net/problem=13)|     |      |    |   :white_check_mark:   |       |      |   |    |         |   |      |       |
 |14|	[Longest Collatz sequence](https://projecteuler.net/problem=14)|     |      |    |        |        |      |   |    |         |   |      |       |
 |15	|[Lattice paths](https://projecteuler.net/problem=15)|     |      |    |        |        |      |   |    |         |   |      |       |
 |16	|[Power digit sum](https://projecteuler.net/problem=16)|     |      |    |    :white_check_mark:    |        |      |   |    |         |   |      |       |
@@ -56,7 +56,7 @@ Happy Contributing! 😃
 |25|	[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|     |      |    |        |        |      |   |    |         |   |      |       |
 |26|	[Reciprocal cycles](https://projecteuler.net/problem=26)|     |      |    |        |        |      |   |    |         |   |      |       |
 |27|	[Quadratic primes](https://projecteuler.net/problem=27)|     |      |    |        |        |      |   |    |         |   |      |       |
-|28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|     |      |    |        |        |      |   |    |         |   |      |       |
+|28	|[Number spiral diagonals](https://projecteuler.net/problem=28)|   :white_check_mark:    |      |    |   :white_check_mark:    |        |      |   :white_check_mark:    |    |         |   |      |       |
 |29	|[Distinct powers](https://projecteuler.net/problem=29)|     |      |    |        |        |      |   |    |         |   |      |       |
 |30|	[Digit fifth powers](https://projecteuler.net/problem=30)|     |      |    |        |        |      |   |    |         |   |      |       |
 |31|	[Coin sums	](https://projecteuler.net/problem=31)|     |      |    |        |        |      |   |    |         |   |      |       |
@@ -85,6 +85,6 @@ Happy Contributing! 😃
 
 - Thanks to You all who are doing their best in solving the problems, we appriciate your efforts.
 - We thank you all for the overwelming P.R that we have recieved, To mantain the Quality and Response of the P.R we have updated the Guidelines.
-- We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's titile to that file.
+- We are reluctant to change/Modify the already merged P.R. to meet the Current Guidelines, as that may modify the contributer's title to that file.
 - We would appriciate, if all of you could do the necessary modification, hence it won't affect your contribution as per HacktoberFest.
 - Keep Up the Efforts.
