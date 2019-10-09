@@ -13,7 +13,7 @@ Your solution should be at -> Java/01.Multiples_of_3_and_5/your_user_name.java
 ```
 - Add :white_check_mark: `:white_check_mark:` to the table against the problem you've solved.
 - Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment `Euler Problem_num`. 
-- While Editing The ReadMe For PR, Use "**No Wrap**" Option { at Top right of Edit File tool on gihtub}
+- While Editing The ReadMe For PR, Use "**No Wrap**" Option { At Top Right Of 'Edit File' Tool On Githtub}
 - Send a PR 
 - [Thanks](#Thanks)
 
