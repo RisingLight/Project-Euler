@@ -1,43 +1,31 @@
-
 #include <iostream>
+#include <string>
 
-unsigned int makePalindrome(unsigned int x)
-{
-  unsigned int result = x * 1000;  
-  result +=    x / 100;             
-  result +=  ((x / 10) % 10) *  10; 
-  result +=   (x % 10)       * 100; 
-  return result;
+using namespace std;
+bool isPalindrome(string x){
+    if (x.length() == 1){return true;}
+    if (x.length() == 2){if (x[0] == x[1]) {return true;} return false;}
+    if (x[0] == x[x.length()-1]){return isPalindrome(x.substr(1,x.length()-2));}
+    return false;
+}
+
+bool isPalindromeHelper(int x){
+    string numString = to_string(x);
+    return isPalindrome(numString);
 }
 
 int main()
 {
-  unsigned int tests;
-  std::cin >> tests;
-  while (tests--)
-  {
-    unsigned int maximum;
-    std::cin >> maximum;
-
-    bool found = false;
-    for (auto upper3 = maximum / 1000; upper3 >= 100 && !found; upper3--)
-    {
-      auto palindrome = makePalindrome(upper3);
-      if (palindrome >= maximum)
-        continue;
-
-      for (unsigned int i = 100; i * i <= palindrome; i++)
-        if (palindrome % i == 0) 
-        {
-          auto other = palindrome / i;
-          if (other < 100 || other > 999)
-            continue;
-
-          std::cout << palindrome << std::endl;
-          found = true;
-          break;
+    int highestPalindrome = 0;
+    int highesti = 0;
+    int highestj = 0;
+    for (int i = 999; i > 99; i--){
+        for (int j = 999; j > 99; j--){
+            if (isPalindromeHelper(i*j)){
+                if (highestPalindrome < i*j){highestPalindrome=i*j; highesti=i; highestj=j;}
+            }
         }
     }
-  }
-  return 0;
+    cout << endl << "The largest palindrome that is the product of two 3-digit numbers is: " << highestPalindrome << " (" << highesti << " x " << highestj << ")." << endl;
+    return 0;
 }
