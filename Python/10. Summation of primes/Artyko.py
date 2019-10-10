@@ -1,3 +1,4 @@
+"""Euler 10"""
 import math
 
 
