@@ -1,5 +1,6 @@
 // Project Euler : Problem Number 08
-#include<bits/stdc++.h>
+#include<iostream>
+#include<string>
 using namespace std;
 #define ll long long
 int main()
