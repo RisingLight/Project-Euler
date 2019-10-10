@@ -8,17 +8,17 @@ Project Euler is a series of challenging problems that require mathematical and 
 - Fork this repository.
 - Make a directory with the format `problem_number.problem_statement` in the directory of the language you're solving.
 ```
-For example if you are solving Problem no 1 in java- > 
+For example if you are solving Problem no 1 in java- >
 Your solution should be at -> Java/01.Multiples_of_3_and_5/your_user_name.java
 ```
 - Add :white_check_mark: `:white_check_mark:` to the table against the problem you've solved.
-- Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment `Euler Problem_num`. 
+- Name the P.R. With the format as `problem_number done in This_Lang`, and Mention the same in the code as a comment `Euler Problem_num`.
 - While Editing The ReadMe For PR, Use "**No Wrap**" Option { At Top Right Of 'Edit File' Tool On Githtub}
-- Send a PR 
+- Send a PR
 - [Thanks](#Thanks)
 
 
-Happy Contributing! 😃 
+Happy Contributing! 😃
 
 
 ⭐ to show support!
@@ -53,7 +53,7 @@ Happy Contributing! 😃
 | 22 | [Names scores](https://projecteuler.net/problem=22)                          |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
 | 23 | [Non-abundant sums](https://projecteuler.net/problem=23)                     |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
 | 24 | [Lexicographic permutations](https://projecteuler.net/problem=24)            |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
-| 25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25)           |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
+| 25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25)           |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |                     |      |       |
 | 26 | [Reciprocal cycles](https://projecteuler.net/problem=26)                     |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
 | 27 | [Quadratic primes](https://projecteuler.net/problem=27)                      |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
 | 28 | [Number spiral diagonals](https://projecteuler.net/problem=28)               | :white_check_mark: |                    |                    | :white_check_mark: |                    |                    | :white_check_mark: |    |                    |                     |      |       |
