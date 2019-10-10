@@ -45,7 +45,7 @@ Project Euler is a series of challenging problems that require mathematical and 
 |32|	[Pandigital products](https://projecteuler.net/problem=32)|     |      |    |        |        |      |
 |33	|[Digit cancelling fractions](https://projecteuler.net/problem=33)|     |      |    |        |        |      |
 |34	|[Digit factorials](https://projecteuler.net/problem=34)|     |      |    |        |        |      |
-|35|	[Circular primes](https://projecteuler.net/problem=35)|     |      |    |        |        |      |
+|35|	[Circular primes](https://projecteuler.net/problem=35)|     |      |    |   :white_check_mark:     |        |      |
 |36|	[Double-base palindromes](https://projecteuler.net/problem=36)|     |      |    |        |        |      |
 |37|	[Truncatable primes](https://projecteuler.net/problem=37)|     |      |    |        |        |      |
 |38	|[Pandigital multiples](https://projecteuler.net/problem=38)|     |      |    |        |        |      |
