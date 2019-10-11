@@ -2,31 +2,26 @@
 #include<iostream>
 #include<string>
 using namespace std;
-#define ll long long
 int main()
 {
-    ll t;
+    int t;
     cin>>t;
     while(t--)
     {
-        ll n,k;
+        int n,k;
         cin>>n>>k;
         string s;
         cin>>s;
-        int a[n];
-        for(ll i=0;i<n;i++)
+        long long int ans=0
+        for(int i=0;i+k<n;i++)
         {
-            a[i]=(int)(s[i])-48;
+            long long int r=1;
+            for(int j=0;j<k;j++)
+                r*=s[i+j]-'0';
+            if(ans<r)
+                ans=r;
         }
-        ll m=INT_MIN;
-        for(ll i=0;i<n-k+1;i++)
-        {
-            ll s=1;
-            for(ll j=0;j<k;j++)
-            s*=a[j+i];
-            m=max(m,s);
-        }
-        cout<<m<<endl;
+        cout<<ans<<endl;
     }
     return(0);
 }
