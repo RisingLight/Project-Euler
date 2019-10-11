@@ -10,7 +10,7 @@ def is_prime(n: int) -> bool:
 
 if __name__ == "__main__":
     results = 0
-    for i in range(1, 2000001):
+    for i in range(2, 2000001):
         if is_prime(i):
             results += i
     print(results)
