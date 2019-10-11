@@ -4,6 +4,7 @@ public class SumSquareDifference {
 
     public static void sumsquarediff() {
         Scanner input = new Scanner(System.in);
+        System.out.print("Please enter a number: ");
         int sum_of_squares = 0;
         int squares_of_sums = 0;
 
@@ -20,6 +21,5 @@ public class SumSquareDifference {
 
     }
 }
-
 
 
