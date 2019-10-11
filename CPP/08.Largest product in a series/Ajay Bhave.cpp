@@ -12,7 +12,7 @@ int main()
         cin>>n>>k;
         string s;
         cin>>s;
-        long long int ans=0
+        long long int ans=0;
         for(int i=0;i+k<n;i++)
         {
             long long int r=1;
