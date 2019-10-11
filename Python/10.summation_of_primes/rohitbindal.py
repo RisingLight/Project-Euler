@@ -1,3 +1,7 @@
+"""
+Problem 10 - Summation of Primes
+"""
+
 import math
 n = 2000000
 
