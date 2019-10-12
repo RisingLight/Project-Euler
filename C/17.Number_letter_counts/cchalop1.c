@@ -7,7 +7,7 @@
 char **intiAllUnits() {
     char **allUnits = malloc(sizeof(char *) * 10);
     allUnits[0] = "one";
-    allUnits[1] = "tow";
+    allUnits[1] = "two";
     allUnits[2] = "three";
     allUnits[3] = "four";
     allUnits[4] = "five";
@@ -105,19 +105,19 @@ int countLetter(int nbr) {
                     displayAnd = false;
                 }
                 if (nbr % 100 >= 10 && nbr % 100 < 20) {
-                    size = strlen(allTens[nbr % 10]);
+                    size += strlen(allTens[nbr % 10]);
                     free(allUnits);
                     free(allTen);
                     free(allTens);
                     free(allHundred);
                     return size;
                 }
-                size = strlen(allTen[((nbr / 10) % 10) - 1]);
+                size += strlen(allTen[((nbr / 10) % 10) - 1]);
             }
         }
     }
     if ((nbr % 10) > 0) {
-        size = strlen(allUnits[(nbr % 10) - 1]);
+        size += strlen(allUnits[(nbr % 10) - 1]);
     }
     free(allUnits);
     free(allTen);
@@ -130,7 +130,7 @@ int main(int ac, char **av) {
     int nbr = getNbr(av);
 
     if (nbr < 1 || nbr >= 1000) {
-        return 1;
+        return 0;
     }
     int size = countLetter(nbr);
     printf("size = %d\n", size);
