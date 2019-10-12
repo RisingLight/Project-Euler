@@ -2,6 +2,7 @@
 def get_total_sum_of_names(names_file_path):
     name_file = open(names_file_path,"r")
     names = name_file.read()
+    names = names.replace('\"','')
     names_list = names.split(",")
     names_list.sort()
     total_names_sum = 0
@@ -9,7 +10,7 @@ def get_total_sum_of_names(names_file_path):
         name_sum = 0
         for ch in name:
             name_sum+=(ord(ch)-64)
-        total_names_sum+=(name_sum*index)
+        total_names_sum+=(name_sum*(index+1))
 
     return total_names_sum
 
