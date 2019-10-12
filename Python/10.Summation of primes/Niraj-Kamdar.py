@@ -1,6 +1,6 @@
 # Euler: 10.Summation of primes
-from sys import stdin, stdout
-n = int(stdin.readline())
+from sys import stdout
+n = 50  # Enter Input here
 A = [True]*n
 for i in range(2, int(n**0.5)):
     if A[i]:
