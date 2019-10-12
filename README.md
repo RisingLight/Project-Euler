@@ -78,7 +78,7 @@ Happy Contributing! 😃
 | 47 | [Distinct primes factors](https://projecteuler.net/problem=47)               |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |                     |      |       |
 | 48 | [Self powers](https://projecteuler.net/problem=48)                           |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |                     |      |       |
 | 49 | [Prime permutations](https://projecteuler.net/problem=49)                    |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |                     |      |       |
-| 50 | [Consecutive prime sum](https://projecteuler.net/problem=50)                 |                    |                    |                    | :white_check_mark: |                    |                    | :white_check_mark: |    |                    |                     |      |       |
+| 50 | [Consecutive prime sum](https://projecteuler.net/problem=50)                 |                    |                    |                    | :white_check_mark: |                    |                    | :white_check_mark: |    | :white_check_mark: |                     |      |       |
 
 ## Thanks
 
