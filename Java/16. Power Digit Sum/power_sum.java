@@ -1,31 +1,26 @@
-// POWER DIGIT SUM
-// Problem 16
-// 215 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+import java.math.BigInteger;
 
-// What is the sum of the digits of the number 21000?
+public class Problem16 {
 
+	public static void main(String[] args) {
 
+		int a = 2;
+		int b = 1000;
+		// Converting Integer to BigInteger.
+		BigInteger number = new BigInteger(String.valueOf(a));
+		// Getting 2^1000.
+		BigInteger power = number.pow(b);
+		// Converting BigInteger to String.
+		String powerInString = String.valueOf(power);
+		int length = powerInString.length();
+		int sum = 0;
+		int temp = 0;
+		for (int i = 0; i < length; i++) {
+			// Converting char to int.
+			temp = powerInString.charAt(i) - 48;
+			sum += temp;
+		}
+		System.out.println("The sum of the digits of the number 2^1000 is : " + sum);
+	}
 
-
-// Java program to illustrate the given problem 
-public class base_power { 
-    static int calculate(int n, int power) 
-    { 
-        int sum = 0; 
-        int bp = (int)Math.pow(n, power); 
-        while (bp != 0) { 
-            int d = bp % 10; 
-            sum += d; 
-            bp /= 10; 
-        } 
-        return sum; 
-    } 
-  
-    // Driver Code 
-    public static void main(String[] args) 
-    { 
-        int n = 5; 
-        int power = 4; 
-        System.out.println(calculate(n, power)); 
-    } 
 }
