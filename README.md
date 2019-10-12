@@ -25,8 +25,6 @@ Happy Contributing! 😃
 [![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/0)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/0)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/1)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/1)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/2)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/2)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/3)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/3)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/4)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/4)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/5)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/5)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/6)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/6)[![](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/images/7)](https://sourcerer.io/fame/imabhishekkumar/RisingLight/Project-Euler/links/7)
 
 ## Problems
-<<<<<<< HEAD
-=======
 | No | Problem Statement                                                            | CPP                | Java               | JS                 | Py3                | Kotlin             | Dart               | C                  | C# | Go Lang            | R                   | Ruby | Swift |
 |----|------------------------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|----|--------------------|---------------------|------|-------|
 | 01 | [Multiples of 3 and 5](https://projecteuler.net/problem=1)                   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |    | :white_check_mark: | :white_check_mark:  |      |       |
@@ -81,7 +79,6 @@ Happy Contributing! 😃
 | 50 | [Consecutive prime sum](https://projecteuler.net/problem=50)                 |                    |                    |                    | :white_check_mark: |                    |                    | :white_check_mark: |    | :white_check_mark: |                     |      |       |
 
 ## Thanks
->>>>>>> ecf47629dc35fd0de2661a9b87d722a811fbd591
 
 | No | Problem Statement | CPP | Java | JS | Python | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
 |---|----|---------|---|------|-------|----|-------------------|-----|------|----|--------|--------|------|
