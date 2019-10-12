@@ -1,5 +1,5 @@
 # Euler 02. Even Fibonacci numbers
-Fibonacci<-c(1,2)
+Fibonacci<-c(0,1)
 NewElement<-sum(tail(Fibonacci,2))
 
 while(NewElement<4000000){
