@@ -1,3 +1,4 @@
+//Euler 50.Consecutive_prime_sum in Go
 package  main
 
 import "fmt"
