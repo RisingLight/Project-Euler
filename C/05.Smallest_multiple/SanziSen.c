@@ -27,6 +27,6 @@ long long int lcm(long long n)
 int main()  
 { 
     long long n = 20; 
-    cout << lcm(n); 
+    printf("%lld, lcm(n)); 
     return 0; 
 } 
