@@ -1,6 +1,6 @@
-// C++ program to find sum of primes in range 1 to n
 
-#include <bits/stdc++.h> 
+#include<iostream> 
+#include<cstring>
 using namespace std; 
   
 long long int sumprimes(long long int n) 
@@ -39,6 +39,6 @@ long long int sumprimes(long long int n)
 int main() 
 { 
     int n = 2000000; 
-    cout << sumOfPrimes(n); 
+    cout << sumprimes(n); 
     return 0; 
 } 
