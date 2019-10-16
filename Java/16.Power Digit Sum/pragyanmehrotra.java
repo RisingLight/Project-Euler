@@ -1,3 +1,4 @@
+//Euler 16 power digit sum done in java
 import java.math.BigInteger;
 
 public class pragyanmehrotra{
