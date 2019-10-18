@@ -4,6 +4,8 @@ Created on Fri Oct 18 19:26:19 2019
 
 @author: Prajwal
 """
+#Euler 17
+
 numbers=[i for i in range(1, 1001)]
 ones={1:'one', 2:'two', 3:'three', 4:'four', 5:'five', 6:'six', 7:'seven', 8:'eight', 9:'nine'}
 tens={1:'ten', 2:'twenty', 3:'thirty', 4:'forty', 5:'fifty', 6:'sixty', 7:'seventy', 8:'eighty', 9:'ninety'}
