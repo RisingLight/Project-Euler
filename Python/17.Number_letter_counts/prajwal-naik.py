@@ -9,17 +9,19 @@ ones={1:'one', 2:'two', 3:'three', 4:'four', 5:'five', 6:'six', 7:'seven', 8:'ei
 tens={1:'ten', 2:'twenty', 3:'thirty', 4:'forty', 5:'fifty', 6:'sixty', 7:'seventy', 8:'eighty', 9:'ninety'}
 tens_ones={11: 'eleven', 12: 'twelve', 13: 'thirteen', 14: 'fourteen', 15: 'fifteen', 16: 'sixteen', 17: 'seventeen', 18: 'eighteen', 19: 'nineteen'}
 spellings=[]
+
+
 for i in range(len(numbers)):
     numbers[i]=str(numbers[i])
 for i in range(len(numbers)):
-    #if(i.len()==1):
+    #for numbers from 1-9
     if(len(numbers[i])==1):
         spellings.append(ones[int(numbers[i])])
         
         
 
         
-        
+     #for numbers from 10-99   
     elif(len(numbers[i])==2):
         if(numbers[i][1]=='0'):
             spellings.append(tens[int(numbers[i][0])])
@@ -36,7 +38,7 @@ for i in range(len(numbers)):
             
             
 
-        
+     #for numbers from 100-999   
     elif((len(numbers[i])==3)):
         if((numbers[i][2]=='0') and (numbers[i][1]=='0')):
             string=ones[int(numbers[i][0])]+'hundred'
