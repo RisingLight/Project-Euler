@@ -4,6 +4,8 @@ Created on Sat Oct 19 21:15:50 2019
 
 @author: Prajwal
 """
+#Euler 12
+
 
 def isPrime(n):
     if(n==1):
