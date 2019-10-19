@@ -1,3 +1,5 @@
+//Euler 6 Sum square difference done in Java
+
 import java.math.BigInteger;
 
 public class pragyanmehrotra {
