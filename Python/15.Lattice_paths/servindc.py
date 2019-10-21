@@ -2,6 +2,7 @@
 from math import factorial as f
 
 def Lattice_paths(n):
+    n = int(n)
     pascal_row = []
     for i in range(n+1):
         pascal_row.append( f(n)//(f(n-i)*f(i)) )
