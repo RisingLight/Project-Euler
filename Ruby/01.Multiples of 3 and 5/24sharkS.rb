@@ -1,4 +1,4 @@
-# Solution to Problem 1.
+# Euler Problem_01
 
 i=3
 sum=0
