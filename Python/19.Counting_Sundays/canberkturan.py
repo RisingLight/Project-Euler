@@ -1,6 +1,3 @@
-#Euler 19
-#Problem Name - Counting Sundays
-
 current_day = 0
 current_month = 0
 current_year = 1901
