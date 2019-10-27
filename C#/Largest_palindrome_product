@@ -1,0 +1,33 @@
+using System;
+namespace _Largest_palindrome_product
+{
+    class Largest_palindrome_product
+    {
+        public static void Main()
+        {
+            for (int i = 999; i >= 100; i--)
+            {
+                for (int j = 999; j >= 100; j--)
+                {
+                    if (isPalindome(i * j) == true)
+                    {
+                        Console.WriteLine("Digit1: " + i);
+                        Console.WriteLine("Digit2: " + j);
+                        Console.WriteLine("Outcome: " + i * j);
+                        Console.ReadLine();
+                    }
+                }
+
+            }
+            Console.ReadLine();
+        }
+        public static bool isPalindome(int num)
+        {
+            string sNum = num.ToString();
+            for (int i = 0; i < sNum.Length / 2; i++)
+                if (sNum[i] != sNum[sNum.Length - 1 - i]) return false;
+
+            return true;
+        }
+    }
+}
