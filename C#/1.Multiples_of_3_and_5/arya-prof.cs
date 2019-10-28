@@ -1,3 +1,4 @@
+// Euler 1
 using System;
 
 namespace _5_multiples
