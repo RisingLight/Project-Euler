@@ -38,7 +38,7 @@ Happy Contributing! 😃
 | 07 | [10001st prime](https://projecteuler.net/problem=7)                          | :white_check_mark: |                    |                    | :white_check_mark: |                    | :white_check_mark: |                    |    |                    |                     |      |       |
 | 08 | [Largest product in a series](https://projecteuler.net/problem=8)            |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |                     |      |       |
 | 09 | [Special Pythagorean triplet](https://projecteuler.net/problem=9)            | :white_check_mark: |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |                     |      |       |
-| 10 | [Summation of primes](https://projecteuler.net/problem=10)                   |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
+| 10 | [Summation of primes](https://projecteuler.net/problem=10)                   |                    |                    |                    |                    |                    |                    | :white_check_mark: |    |                    |                     |      |       |
 | 11 | [Largest product in a grid](https://projecteuler.net/problem=11)             |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
 | 12 | [Highly divisible triangular number](https://projecteuler.net/problem=12)    |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
 | 13 | [Large sum](https://projecteuler.net/problem=13)                             |                    |                    |                    | :white_check_mark: |                    |                    |                    |    |                    |                     |      |       |
@@ -80,6 +80,7 @@ Happy Contributing! 😃
 | 49 | [Prime permutations](https://projecteuler.net/problem=49)                    |                    |                    |                    |                    |                    |                    |                    |    |                    |                     |      |       |
 | 50 | [Consecutive prime sum](https://projecteuler.net/problem=50)                 |                    |                    |                    | :white_check_mark: |                    |                    | :white_check_mark: |    |                    |                     |      |       |
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 | No | Problem Statement | CPP | Java | JS | Python3 | Kotlin | Dart | C | C# | Go Lang | R | Ruby | Swift |
@@ -137,6 +138,8 @@ Happy Contributing! 😃
 
 ---
 >>>>>>> d6dbedfeafedbe86469b39fd8a5109a9fddf2560
+=======
+>>>>>>> 497abc22bda3ece0e299ab82281431d018083fb0
 ## Thanks
 
 
