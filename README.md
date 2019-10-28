@@ -81,8 +81,8 @@ Happy Contributing! 😃
 | 49 | [Prime permutations](https://projecteuler.net/problem=49)                    |                    |                    |                    | :white_check_mark: |                    |                    |                    |                    |                    |                    |                    |                    |
 | 50 | [Consecutive prime sum](https://projecteuler.net/problem=50)                 |                    |                    |                    | :white_check_mark: |                    |                    | :white_check_mark: |                    | :white_check_mark: |                    |                    |                    |
 
-## Thanks
 
+## Thanks
 
 - Thanks to you all who are doing their best in solving the problems, we appriciate your efforts.
 - We thank you all for the overwelming P.R that we have recieved, To mantain the quality and response of the P.R we have updated the
