@@ -5,7 +5,7 @@
 Project Euler is a series of challenging problems that require mathematical and programming skills. Somebody who enjoys learning new area of mathematics, project Euler is going to be a fun journey.
 
 ## How to contribute?
-- Fork this repository.
+- Fork this repository .
 - Make a directory with the format `problem_number.problem_statement` in the directory of the language you're solving.
 ```
 For example if you are solving Problem no 1 in java- >
