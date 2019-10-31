@@ -1,5 +1,5 @@
 //Euler Problem_04
-
+//This solution will find largest palindrome product made from two 3-digit numbers
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -15,7 +15,7 @@ public class Solution {
         int x,y;
         String s;
         z:for(a0 = 0; a0 < t; a0++){
-            n = in.nextInt();
+            n = 1000000;
             for(i=n-1;i>=101101;i--)
             {
                 f=0;
