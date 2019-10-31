@@ -10,7 +10,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int t = in.nextInt();
+        int t = 1;
         int i,j,len,a0,n,f;
         int x,y;
         String s;
