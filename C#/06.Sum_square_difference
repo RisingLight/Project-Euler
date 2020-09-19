@@ -1,0 +1,17 @@
+//Euler problem06
+using System;
+					
+public class Sum_square_difference
+{
+	public static void Main()
+	{
+				int n=10;
+		//sum of square first 100numbers
+		//1^2+2^2+3^2....
+		long sum1=(n*(n+1)*(2*n+1))/6;
+		//sum of first 100 numbers square
+		//(1+2+3...)^2
+		long sum2=((n*(n+1))/2)*((n*(n+1))/2);
+		Console.WriteLine(sum2-sum1);
+	}
+}
