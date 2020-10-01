@@ -1,3 +1,4 @@
+// Euler 20
 #include <stdio.h>
 #define MAX_DIGIT 200
 
