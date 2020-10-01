@@ -1,4 +1,4 @@
- ## Project Euler 5: Smallest Multiple
+ ## Project Euler 5.Smallest Multiple
 
   answer <- 2520
   while (sum(answer %% (1:20)) != 0) {
